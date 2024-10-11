@@ -1,0 +1,17 @@
+{
+    "name": "progammerkece/php_composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Progammerkece\\PhpComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IndraAjiyanto",
+            "email": "indraajiyanto052@gmail.com"
+        }
+    ],
+    "require": {}
+}
